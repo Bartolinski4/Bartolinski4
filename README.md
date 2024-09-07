@@ -1,34 +1,32 @@
 <h1 align="center">💙 Bartolinski 💙</h1>
-<h3 align="center">Developer/Graphic designer/Editor</h3>
+<h3 align="center">Developer • Graphic Designer • Editor</h3>
 
 <p align="center">Welcome to my Profile! 🔥</p>
 
 <p align="center">
-  <a href="https://github.com/Bartolinski4">
-    <img src="https://img.shields.io/github/followers/Bartolinski4?style=for-the-badge&logo=github&logoColor=white&color=blue&labelColor=blue&cacheSeconds=3600"
-      alt="Follow Bartolinski4 on GitHub" />
+  <a href="https://github.com/mOnteySZEF?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mOnteySZEF?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
-  <a href="https://github.com/Bartolinski4?tab=stars">
-    <img src="https://img.shields.io/github/stars/Bartolinski4?style=for-the-badge&logo=github&logoColor=white&color=2b7a4d&labelColor=2b7a4d&cacheSeconds=3600"
-      alt="Star Bartolinski4's repositories on GitHub" />
+  <a href="https://github.com/mOnteySZEF?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mOnteySZEF?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
 </p>
 
-## 🛠 Languages and Tools
+### 🛠 Languages and Tools
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discordjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="Discord.js logo" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" />
 </div>
 
 ## 📊 Stats
@@ -40,5 +38,5 @@
 
 <details>
   <summary><h2>👨‍💻 Info</h2></summary>
-  <p align="center">I am the owner of a bot discord, <a href="https://discord.gg/FzgZGWuxp4">RifeBOT</a>! 🤖</p>
+  <p align="center">I am the owner of a Discord bot, <a href="https://discord.gg/FzgZGWuxp4">RifeBOT</a>! 🤖</p>
 </details>
