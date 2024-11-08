@@ -12,7 +12,7 @@
   </a>
 </p>
 
-### 🛠 Languages and Tools
+## 🛠 Languages and Tools
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="Discord.js logo" />
   <img width="20" />
@@ -37,6 +37,15 @@
 </p>
 
 <details>
-  <summary><h2>👨‍💻 Info</h2></summary>
-  <p align="center">I am the owner of a Discord bot, <a href="https://discord.gg/FzgZGWuxp4">RifeBOT</a>! 🤖</p>
+  <summary><h2>👨‍💻 Information</h2></summary>
+  <p align="center">
+SOON
+  </p>
 </details>
+
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://discord.com/users/717048566396354582"><img src="https://img.shields.io/badge/Discord-Bartolinski-7289DA?logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://github.com/Bartolinski4"><img src="https://img.shields.io/badge/GitHub-Bartolinski4-333?logo=github&logoColor=white" alt="GitHub"></a>
+</p>
