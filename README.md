@@ -32,13 +32,21 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bartolinski4&show_icons=true&theme=radical&cacheSeconds=3600"
-    alt="Bartolinski's GitHub Stats" />
+  <a href="https://github.com/Bartolinski4">
+    <img alt="Bartolinski's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Bartolinski4&show_icons=true&count_private=true&theme=react&border=4E7FEE&hide_border=true&title_color=4E7FEE&icon_color=4E7FEE" height="172px"/>
+  </a>
+  
+<!--  
+<a href="https://github.com/Bartolinski4">
+    <img alt="Bartolinski's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bartolinski4&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=4E7FEE&title_color=4E7FEE" height="172px"/>
+</a>  
+-->
+
 </p>
 
 <details>
   <summary><h2>👨‍💻 Information</h2></summary>
-  <p align="center">
+  <p>
 SOON
   </p>
 </details>
