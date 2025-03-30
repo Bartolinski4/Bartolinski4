@@ -47,7 +47,7 @@
 <details>
   <summary><h2>👨‍💻 Information</h2></summary>
   <p>
-SOON
+Hi, my name is Bartek, and I'm from Poland. I'm a young developer specializing in creating websites and Discord bots. In my free time, I enjoy learning new things and playing games. I love experimenting and gaining new knowledge. I thrive on challenges that encourage creativity and push me to find unique solutions. I see every project as an opportunity to learn and improve my skills.
   </p>
 </details>
 
