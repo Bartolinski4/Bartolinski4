@@ -1,5 +1,5 @@
 <h1 align="center">💙 Bartolinski 💙</h1>
-<h3 align="center">Developer • Graphic Designer • Editor</h3>
+<h3 align="center">Developer • Graphic Designer</h3>
 
 <p align="center">Welcome to my Profile! 🔥</p>
 
@@ -43,14 +43,6 @@
 -->
 
 </p>
-
-<details>
-  <summary><h2>👨‍💻 Information</h2></summary>
-  <p>
-Hi, my name is Bartek, and I'm from Poland. I'm a young developer specializing in creating websites and Discord bots. In my free time, I enjoy learning new things and playing games. I love experimenting and gaining new knowledge. I see every project as an opportunity to learn and improve my skills.
-  </p>
-</details>
-
 
 ## 🌐 Connect with Me
 <p align="center">
