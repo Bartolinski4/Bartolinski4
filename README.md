@@ -1,17 +1,14 @@
 <h1 align="center"><img src="./username.svg"></h1>
-<h3 align="center">Developer • Graphic Designer</h3>
+<h3 align="center">Front End Developer</h3>
 
 <p align="center">Welcome to my Profile! 🔥</p>
 
 <p align="center">
-    <a href="https://komarev.com/ghpvc/?username=Bartolinski4&label=Profile%20views&color=0e75b6&style=flat">
-    <img alt="total views" title="Total views on Github" src="https://komarev.com/ghpvc/?username=Bartolinski4&label=Profile%20views&color=4E7FEE&style=flat"/>
-  </a>
   <a href="https://github.com/Bartolinski4?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Bartolinski4?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Bartolinski4?color=114ea9&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
   <a href="https://github.com/Bartolinski4?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Bartolinski4?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Bartolinski4?color=407307&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
 </p>
 
