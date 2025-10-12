@@ -1,0 +1,48 @@
+            <svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+                <style>
+                    @keyframes changeKolor {
+                        0% {
+                            background-position: 0% 50%;
+                        }
+
+                        50% {
+                            background-position: 100% 50%;
+                        }
+
+                        100% {
+                            background-position: 0% 50%;
+                        }
+                    }
+
+                    .kolor {
+                        font-family: 'Inter',
+                            -apple-system,
+                            BlinkMacSystemFont,
+                            'Segoe UI',
+                            'Roboto',
+                            'Oxygen',
+                            'Ubuntu',
+                            'Cantarell',
+                            'Fira Sans',
+                            'Droid Sans',
+                            'Helvetica Neue',
+                            sans-serif;
+                        margin: 0;
+                        font-size: 48px;
+                        font-weight: 900;
+                        text-align: center;
+                        background: -webkit-linear-gradient(right, #4E7FEE, #8AB4F8);
+                        background: linear-gradient(270deg, #5090f0 0, #236a8b);
+                        
+                        background-size: 200%;
+                        background-clip: text;
+                        -webkit-background-clip: text;
+                        -webkit-text-fill-color: transparent;
+                        -webkit-animation: changeKolor 3s ease infinite;
+                        animation: changeKolor 3s ease infinite;
+
+                     
+                    }
+                </style>
+                <h1 class="kolor">Bartolinski</h1>
+            </svg>
