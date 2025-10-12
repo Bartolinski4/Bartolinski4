@@ -1,4 +1,4 @@
-<h1 align="center">💙 Bartolinski 💙</h1>
+<h1 align="center"><img src="./username.svg"></h1>
 <h3 align="center">Developer • Graphic Designer</h3>
 
 <p align="center">Welcome to my Profile! 🔥</p>
