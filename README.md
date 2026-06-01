@@ -5,10 +5,11 @@
 
 <p align="center">
   <a href="https://github.com/Bartolinski4?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Bartolinski4?color=114ea9&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <img src="https://img.shields.io/github/followers/Bartolinski4?label=FOLLOW%20ME&style=for-the-badge&logo=github&logoColor=white&color=1f6feb&labelColor=1f6feb" />
   </a>
+
   <a href="https://github.com/Bartolinski4?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Bartolinski4?color=407307&style=for-the-badge&labelColor=488207&logo=star"/>
+    <img src="https://img.shields.io/github/stars/Bartolinski4/Bartolinski4?style=for-the-badge&logo=stars&logoColor=black&label=STARS&color=ffb703&labelColor=ffb703" />
   </a>
 </p>
 
